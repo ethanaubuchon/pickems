@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/ethanaubuchon/pickems/issues"
   },
-  "homepage": "https://github.com/ethanaubuchon/pickems#readme"
+  "homepage": "https://github.com/ethanaubuchon/pickems#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "helmet": "^3.8.1",
+    "knex": "^0.13.0",
+    "morgan": "^1.8.2",
+    "objection": "^0.8.8",
+    "pg": "^7.2.0",
+    "sqlite3": "^3.1.9"
+  }
 }
