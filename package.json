@@ -1,0 +1,19 @@
+{
+  "name": "pickems",
+  "version": "1.0.0",
+  "description": "The creators of `rails_nightly_pickems` are at it again with `pickems`.  This time they're coming at you with a whole new app. Built with Node.js, React and Postgresql.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanaubuchon/pickems.git"
+  },
+  "author": "Ethan Aubuchon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ethanaubuchon/pickems/issues"
+  },
+  "homepage": "https://github.com/ethanaubuchon/pickems#readme"
+}
