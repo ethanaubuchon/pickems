@@ -24,6 +24,7 @@
     "history": "^4.7.2",
     "jsonwebtoken": "^7.4.3",
     "knex": "^0.13.0",
+    "mock-knex": "^0.3.9",
     "morgan": "^1.8.2",
     "objection": "^0.8.8",
     "objection-guid": "^2.1.0",
